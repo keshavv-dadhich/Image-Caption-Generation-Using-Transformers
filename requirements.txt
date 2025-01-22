@@ -1,0 +1,13 @@
+h5py
+nltk
+opencv-python
+pandas
+scikit-learn
+tensorboard
+torch
+torchtext
+torchvision
+matplotlib
+jupyter
+ipywidgets
+stanza
